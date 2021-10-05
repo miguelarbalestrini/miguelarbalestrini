@@ -1,6 +1,4 @@
-# Hi there! I am Miguel Angel :sunglasses: 
-
-[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-angel-rodenas-balestrini/)
+# Hi there! I am Miguel Angel :sunglasses: [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-angel-rodenas-balestrini/)
 
 ## ⚙️ GitHub Analytics ⚙️
 
